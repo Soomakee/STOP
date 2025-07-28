@@ -1,0 +1,1 @@
+import{_ as s,c as t,b as e,g as a}from"./index-BFUiEny6.js";const n={},c={class:"todo-view"};function r(d,o){return a(),t("div",c,o[0]||(o[0]=[e("h1",{class:"page-title"},"To Do",-1),e("div",{class:"content-area"},[e("p",null,"Task management system coming soon...")],-1)]))}const i=s(n,[["render",r],["__scopeId","data-v-14edfa65"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as r,b as e,g as a}from"./index-BFUiEny6.js";const n={},o={class:"hire-view"};function c(i,s){return a(),r("div",o,s[0]||(s[0]=[e("h1",{class:"page-title"},"For Hire",-1),e("div",{class:"content-area"},[e("p",null,"Hiring and recruitment system coming soon...")],-1)]))}const d=t(n,[["render",c],["__scopeId","data-v-90a981bb"]]);export{d as default};

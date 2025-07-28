@@ -1,0 +1,1 @@
+import{_ as t,c as s,b as e,g as o}from"./index-BFUiEny6.js";const a={},c={class:"inventory-view"};function r(i,n){return o(),s("div",c,n[0]||(n[0]=[e("h1",{class:"page-title"},"Guild Inventory",-1),e("div",{class:"content-area"},[e("p",null,"Inventory management system coming soon...")],-1)]))}const l=t(a,[["render",r],["__scopeId","data-v-474edbb0"]]);export{l as default};

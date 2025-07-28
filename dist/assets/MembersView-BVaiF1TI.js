@@ -1,0 +1,1 @@
+import{_ as t,c as a,b as e,g as c}from"./index-BFUiEny6.js";const n={},o={class:"members-view"};function r(i,s){return c(),a("div",o,s[0]||(s[0]=[e("h1",{class:"page-title"},"Member List",-1),e("div",{class:"content-area"},[e("p",null,"Member management interface coming soon...")],-1)]))}const _=t(n,[["render",r],["__scopeId","data-v-3674c29d"]]);export{_ as default};

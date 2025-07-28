@@ -1,0 +1,1 @@
+import{_ as t,c as n,b as e,g as a}from"./index-BFUiEny6.js";const o={},c={class:"events-view"};function r(d,s){return a(),n("div",c,s[0]||(s[0]=[e("h1",{class:"page-title"},"Events",-1),e("div",{class:"content-area"},[e("p",null,"Event management system coming soon...")],-1)]))}const i=t(o,[["render",r],["__scopeId","data-v-6d373de8"]]);export{i as default};

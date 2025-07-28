@@ -1,0 +1,1 @@
+import{_ as t,c as s,b as e,g as a}from"./index-BFUiEny6.js";const c={},n={class:"about-view"};function r(i,o){return a(),s("div",n,o[0]||(o[0]=[e("h1",{class:"page-title"},"About",-1),e("div",{class:"content-area"},[e("p",null,"About The High Ground coming soon...")],-1)]))}const d=t(c,[["render",r],["__scopeId","data-v-00a6c91c"]]);export{d as default};
